@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and AI Engineering**
 
-- 👨‍💻 All of my projects are available at [hazmannaim.github.io](https://hazmannaim.github.io/)
+- 👨‍💻 All of my projects are available at [hazmannaim.github.io](https://hazmannaim.github.io/projects/)
 
 - 💬 Ask me about **Data Science, Machine Learning, AI and Astrophysics**
 
