@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hazman Naim</h1>
-<h3 align="center">A young aspiring AI scientist with a strong physics background</h3>
+<h3 align="center">A young analytics engineer with a strong physics background</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazmannaim&label=Profile%20views&color=0e75b6&style=flat" alt="hazmannaim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazmannaim" alt="hazmannaim" /></a> </p>
 
-- 🔭 I’m currently working on **AI Application with Deep Neural Network**
+- 🔭 I’m currently working on **data engineering, analytics and machine learning**
 
 - 🌱 I’m currently learning **Deep Learning and AI Engineering**
 
